@@ -1,5 +1,5 @@
 pandas
-streamlit
+streamlit>=1.28.0
 numpy
 joblib
 matplotlib
@@ -10,3 +10,4 @@ xgboost
 lightgbm
 catboost
 scikit-learn
+altair>=5.0.1
