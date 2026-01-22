@@ -3,7 +3,7 @@ import joblib
 import numpy as np
 import pandas as pd
 
-model = joblib.load('datchik.joblib')
+model = joblib.load('datchik_bayes.joblib')
 
 st.title('Прогнозирование цены доставки груза')
 st.write('Введите параметры для рассчета:')
